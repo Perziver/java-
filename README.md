@@ -1,7 +1,6 @@
-# java_Projects
+# Java_Projects
 
-#########################################################################################################################################################################
-
+#######################################################################################################################
 Java is the univarsial language for the companies and wanted to learn java!!!!
 FInally day has come to code on java!!!
 first project or tast was to build calculator using java.util.scanner and java.lang.Math 
@@ -21,4 +20,4 @@ choose the number associated to the function and give sutiable values to it and 
 
 Really fun project and learned all the besic function of java scanner class and calling function using data typecasting and using System.out.println........
 
-#########################################################################################################################################################################
+#######################################################################################################################
